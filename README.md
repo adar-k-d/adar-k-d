@@ -1,4 +1,12 @@
-### Hi there 👋
+# <p align="center"> Hello! I am Adarsh K.D </p>  
+---
+## <p align="center">I primarily do 3D modelling and create animations, but I also know my way around coding! </p> 
+<br>
+- 🌱 I’m currently learning 3D modelling and animating in blender, as well as game developement.  
+- 👯 I’m looking to collaborate on game developement projects.  
+### Reach me via:
+ <i class="fa-brands fa-linkedin"></i>
+ [linkedin]([https://www.linkedin.com/in/adarsh-kd-b702b1253/] <i class="fa fa-linkedin"></i>)
 
 <!--
 **adar-k-d/adar-k-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
