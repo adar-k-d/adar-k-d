@@ -4,6 +4,7 @@
 <br>
 - 🌱 I’m currently learning 3D modelling and animating in blender, as well as game developement.  
 - 👯 I’m looking to collaborate on game developement projects.  
+
 ### Reach me via:
  <i class="fa-brands fa-linkedin"></i>
  [linkedin]([https://www.linkedin.com/in/adarsh-kd-b702b1253/] <i class="fa fa-linkedin"></i>)
